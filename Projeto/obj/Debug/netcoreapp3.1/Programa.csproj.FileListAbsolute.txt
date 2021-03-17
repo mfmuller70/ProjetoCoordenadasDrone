@@ -1,0 +1,13 @@
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.exe
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.deps.json
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.json
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.dev.json
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\bin\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Asus\Source\Repos\ProjetoCoordenadasDrone\Projeto\obj\Debug\netcoreapp3.1\Programa.genruntimeconfig.cache
